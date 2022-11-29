@@ -1,0 +1,1 @@
+# simotel-click2dial-extension
